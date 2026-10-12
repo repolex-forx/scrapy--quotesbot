@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "scrapy",
+  "repo": "quotesbot",
+  "versions": [
+    {
+      "commit": "16ec3f4176db67ca9132f7e4431d7823e5e28974",
+      "parsed_at": "2026-10-12T06:15:59.518465+00:00",
+      "filetree": "filetree/16ec3f4176db67ca9132f7e4431d7823e5e28974.nq.gz",
+      "blobs": [
+        "blob/c33bc3fe72f38e47d076a8e1330dcda087a15a1f.nq.gz",
+        "blob/250b253917aa6e7b892f8b2b5ef40720c3fe01a0.nq.gz",
+        "blob/555e2040d76f207c3dca0752441b16fa732fb3b8.nq.gz",
+        "blob/72364f99fe4bf8d5262df3b19b33102aeaa791e5.nq.gz",
+        "blob/b9c5e70e31f8f5c216acba35cd39c54817e43ebe.nq.gz",
+        "blob/9599fd8069d36fa9268c08cbdd00199a415a51f1.nq.gz",
+        "blob/63a00a96f4825212da516cc5ef8afdf985f3ca19.nq.gz",
+        "blob/692bb0121b8de7aa134bb5f6ea15f9dcb21ec54a.nq.gz",
+        "blob/ebd689ac51d69c5e1dbbe80083c2b20a39f8bb79.nq.gz",
+        "blob/2aff2d76ba60e71b0b4f006e955991239bacb4a8.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
