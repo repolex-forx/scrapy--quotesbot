@@ -1,0 +1,11 @@
+{
+  "org": "scrapy",
+  "repo": "quotesbot",
+  "versions": [
+    {
+      "commit": "16ec3f4176db67ca9132f7e4431d7823e5e28974",
+      "tag": "",
+      "parsed_at": "2026-10-12T06:18:40.910154+00:00"
+    }
+  ]
+}
