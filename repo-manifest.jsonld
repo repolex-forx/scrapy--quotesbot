@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scrapy/quotesbot/commit/16ec3f4176db67ca9132f7e4431d7823e5e28974",
       "git:hexsha": "16ec3f4176db67ca9132f7e4431d7823e5e28974",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
